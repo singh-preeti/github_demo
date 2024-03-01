@@ -8,3 +8,14 @@ Non-Veg
 2. Chicken Spring Roll
 3. Egg Omlet
 4. Fish Fry
+
+********Main Food Course******************
+
+Veg 
+1. Paneer Curry
+2. dal
+
+Non-Veg
+1. Chicken curry
+2. Fish Curry
+
