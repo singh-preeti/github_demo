@@ -1,0 +1,11 @@
+Dev ops is nothing but developement and operation 
+where we are learning CI/CD Pipeline
+
+
+echo "# github_demo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/singh-preeti/github_demo.git
+git push -u origin main
